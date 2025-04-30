@@ -2,20 +2,20 @@
   <img src="https://your-logo-url-here.com/logo.png" width="200" alt="DARKTECH Logo" />
 </p>
 
-<h1 align="center">Welcome to My GitHub!</h1>
+<h1 align="center">Welcome to DARKTECH's GitHub!</h1>
 
 <p align="center">
-  <b>I'm a passionate developer building WhatsApp bots, automation tools, and cool tech under the name DARKTECH.</b>
+  <b>Crafting bots, tools & tech under the brand DARKTECH.</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- **Name:** [Your Name or Alias]  
-- **Tech Brand:** DARKTECH  
-- **Main Projects:** WhatsApp Bots (like DARK MD V2), hacking apps, and tool-based Android apps  
-- **Languages & Tools:** JavaScript, Node.js, Python, FFmpeg, Baileys, Heroku, Render  
+- **Tech Brand:** DARK TECH 
+- **Main Projects:** WhatsApp Bots (like DARK MD V2), automation tools, prank apps  
+- **Site:** [System Monitor Panel](https://system-d5et.onrender.com)  
+- **Bot Repo:** [Monitor Bot GitHub](https://github.com/darkdev-tech/monitor.git)
 
 ---
 
@@ -39,9 +39,17 @@
 
 ---
 
+## 🔗 Useful Links
+
+- **Live Panel:** [https://system-d5et.onrender.com](https://system-d5et.onrender.com)  
+- **Bot Source Code:** [Monitor Repo](https://github.com/darkdev-tech/monitor.git)  
+- **Join WhatsApp Channel:** [XENOCRYPT Channel](https://whatsapp.com/channel/0029VaesBAXJJhzefVszDu3h)
+
+---
+
 ## 📫 Contact Me
 
-- WhatsApp: [+254106208580](https://wa.me/254107065646)
+- WhatsApp: [+254106208580](https://wa.me/254106208580)
 - GitHub: [github.com/yourusername](https://github.com/darkdev-tech)
 
 ---

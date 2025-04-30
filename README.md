@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url-here.com/logo.png" width="200" alt="DARKTECH Logo" />
+  <img src="https://files.catbox.moe/jeht1t.PNG" width="200" alt="DARKTECH Logo" />
 </p>
 
 <h1 align="center">Welcome to DARKTECH's GitHub!</h1>
@@ -49,7 +49,7 @@
 
 ## 📫 Contact Me
 
-- WhatsApp: [+254106208580](https://wa.me/254106208580)
+- WhatsApp: [+254106208580](https://wa.me/254107065646)
 - GitHub: [github.com/yourusername](https://github.com/darkdev-tech)
 
 ---

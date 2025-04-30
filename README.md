@@ -50,7 +50,7 @@
 ## 📫 Contact Me
 
 - WhatsApp: [+254106208580](https://wa.me/254107065646)
-- GitHub: [github.com/yourusername](https://github.com/darkdev-tech)
+- GitHub: [github.com/darkdev-tech](https://github.com/darkdev-tech)
 
 ---
 
